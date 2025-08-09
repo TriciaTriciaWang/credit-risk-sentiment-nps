@@ -1,0 +1,8 @@
+{
+  "python.defaultInterpreterPath": "C:\\Users\\User\\anaconda3\\python.exe",
+  "python.pythonPath": "C:\\Users\\User\\anaconda3\\python.exe",
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": true,
+  "python.formatting.provider": "black",
+  "jupyter.sendSelectionToInteractiveWindow": true
+}

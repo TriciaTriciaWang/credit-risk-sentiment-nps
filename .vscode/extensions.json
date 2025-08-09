@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "ms-python.python",
+    "ms-toolsai.jupyter",
+    "ms-python.vscode-pylance",
+    "eamodio.gitlens",
+    "editorconfig.editorconfig",
+    "ms-azuretools.vscode-docker",
+    "shardulm94.trailing-spaces",
+    "njpwerner.autodocstring"
+  ]
+}
