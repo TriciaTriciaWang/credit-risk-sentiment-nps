@@ -1,3 +1,5 @@
+![Credit Risk, Sentiment, and NPS Analysis](images/banner.png)
+
 # Credit Risk, Sentiment & NPS Analysis
 
 ## 📌 Project Overview
