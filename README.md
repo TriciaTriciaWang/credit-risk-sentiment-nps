@@ -5,6 +5,10 @@
 This project analyzes **customer churn**, **credit risk**, **sentiment**, and **Net Promoter Score (NPS)** to uncover patterns in customer behavior and identify high-risk customer groups.
 The analysis integrates **exploratory data analysis (EDA)**, **machine learning modeling**, and **visual insights** to support better retention strategies.
 
+**Download:**  
+- [Download PowerPoint (.pptx)](dashboard/Executive_Summary.pptx)  
+- [Download PDF version](dashboard/Executive_Summary.pdf)
+
 ---
 
 ## 📂 Key Features
@@ -78,8 +82,8 @@ pip install -r requirements.txt
 * Sentiment analysis revealed key improvement areas, including poor customer service, technical issues, and other pain points impacting customer satisfaction.
 * NPS segmentation showed that voluntary churned customers are predominantly detractors, highlighting an urgent need for targeted retention strategies and service improvements.
 * Explored Top 15 Features Influencing Churn.
-
-
+![Executive Summary 1](image-1.png)
+![Executive Summary 2](image-2.png)
 ---
 
 ## 📄 License
