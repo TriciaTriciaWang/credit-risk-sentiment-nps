@@ -6,8 +6,8 @@ This project analyzes **customer churn**, **credit risk**, **sentiment**, and **
 The analysis integrates **exploratory data analysis (EDA)**, **machine learning modeling**, and **visual insights** to support better retention strategies.
 
 **Download:**  
-- [Download PowerPoint (.pptx)](dashboard/Executive_Summary.pptx)  
-- [Download PDF version](dashboard/Executive_Summary.pdf)
+- [Download PowerPoint (.pptx)](dashboard/credit_risk_sentiment_nps_analysis_result.pptx)  
+- [Download PDF version](dashboard/credit_risk_sentiment_nps_analysis_result.pdf)
 
 ---
 
@@ -82,8 +82,8 @@ pip install -r requirements.txt
 * Sentiment analysis revealed key improvement areas, including poor customer service, technical issues, and other pain points impacting customer satisfaction.
 * NPS segmentation showed that voluntary churned customers are predominantly detractors, highlighting an urgent need for targeted retention strategies and service improvements.
 * Explored Top 15 Features Influencing Churn.
-![Executive Summary 1](image-1.png)
-![Executive Summary 2](image-2.png)
+![Executive Summary 1](reports/image-1.png)
+![Executive Summary 2](reports/image-2.png)
 ---
 
 ## 📄 License
