@@ -110,3 +110,8 @@ Clone this repository:
 ```bash
 git clone https://github.com/your-username/credit-risk-sentiment-nps.git
 cd credit-risk-sentiment-nps
+
+🚀 Author
+Tricia Wang
+📫 Contact: GitHub @triciatriciawang
+🔗 LinkedIn: linkedin.com/in/tricia-wang-398b38374
